@@ -5,6 +5,11 @@ library(maptpx) # Topic modeling
 library(tm) # Text cleaning
 library(wordcloud) # Topic model visualization
 
+#################### Todo List ####################
+## k-means clustering, but I'm not sure what that adds over topic modeling
+## Need to write code to clean the other stuff
+## Probably see if we can clean everything and save it to a file... Not sure how big that might get though
+
 ## Allan's working directory
 setwd("C:\\HOME\\Big Data")
 
